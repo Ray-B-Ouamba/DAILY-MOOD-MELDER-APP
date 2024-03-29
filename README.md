@@ -7,6 +7,7 @@ We have make a Quote Generator Website.
 ## TECH USED:
 * HTML
 * CSS
+* JaAVASCRIPT
 
 
 
