@@ -1,5 +1,5 @@
 # QUOTES-GENERATOR-WEBSITE-
-We have make a Quote Generator Website.
+We built a Daily Quote Website Design with two buttons: one for sharing quotes on Twitter and one for displaying additional quotes.  
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE-/
 
@@ -8,8 +8,6 @@ We have make a Quote Generator Website.
 * HTML
 * CSS
 * JaAVASCRIPT
-
-
 
 ## OPTIMIZATIONS
 
