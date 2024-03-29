@@ -1,6 +1,5 @@
 # QUOTES-GENERATOR-WEBSITE-
-
-Our webpage's background color must change to a different color after one click. 
+We have make a Quote Generator Website.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE-/
 
@@ -9,7 +8,9 @@ Our webpage's background color must change to a different color after one click.
 **TECH USED:** HTML, CSS, JavaScript
 
 ## OPTIMIZATIONS
-We have designed our webpage so that a single click will cause the background color to change.  We would like our background to automatically change color every 20 seconds.
+We have designed our webpage so that a single click will cause the background color to change.  
+
+We would like our background to automatically change color every 20 seconds.
 
 ## LESSONS LEARNED:
 Understand the principles of JavaScript.
