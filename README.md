@@ -13,7 +13,8 @@ We have creat a Daily Quote Website Design. It has two buttons : One that hepls 
 We would like our background to automatically change color every 20 seconds.
 
 ## LESSONS LEARNED:
-Through this learning we have Understood the basics principles of JavaScript.
+* How to display the content from the API on a website using Javascript.
+* How to share content from your website to an another website.
 
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:**
