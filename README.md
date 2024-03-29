@@ -6,12 +6,9 @@ We have make a Quote Generator Website.
 ## HOW IT'S MADE:
 ## TECH USED:
 * HTML
-* How to share content from your website to an another website.
+* CSS
 
-##TECH USED: 
-*HTML, 
-*CSS, 
-*JavaScript
+
 
 ## OPTIMIZATIONS
 We have creat a Daily Quote Website Design. It has two buttons : One that hepls to share Quotes on Twitter and one that permit to display an another quotes.  
