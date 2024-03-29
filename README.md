@@ -8,12 +8,12 @@ We have make a Quote Generator Website.
 **TECH USED:** HTML, CSS, JavaScript
 
 ## OPTIMIZATIONS
-We have designed our webpage so that a single click will cause the background color to change.  
+We have creat a Daily Quote Website Design.  With two buttons : One that hepls to share Quotes on Twitter and one that permit to 
 
 We would like our background to automatically change color every 20 seconds.
 
 ## LESSONS LEARNED:
-Understand the principles of JavaScript.
+Through this learning we have Understood the basics principles of JavaScript.
 
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:**
