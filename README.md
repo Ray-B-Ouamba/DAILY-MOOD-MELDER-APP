@@ -12,7 +12,7 @@ We have make a Quote Generator Website.
 
 
 ## OPTIMIZATIONS
-We have creat a Daily Quote Website Design. It has two buttons : One that hepls to share Quotes on Twitter and one that permit to display an another quotes.  
+
 
 We would like our background to automatically change color every 20 seconds.
 
