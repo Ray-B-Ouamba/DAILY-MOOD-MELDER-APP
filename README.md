@@ -10,7 +10,8 @@ We built a Daily Quote Website Design with two buttons: one for sharing quotes o
 * JaAVASCRIPT
 
 ## OPTIMIZATIONS
-We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter). 
+* We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter).
+* When the quote is shared, there are no quotation marks, so we may add them.
 
 ## LESSONS LEARNED:
 * How to display the content from the API on a website using Javascript.
