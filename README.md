@@ -10,8 +10,7 @@ We built a Daily Quote Website Design with two buttons: one for sharing quotes o
 * JaAVASCRIPT
 
 ## OPTIMIZATIONS
-
-We would like our background to automatically change color every 20 seconds.
+We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter). 
 
 ## LESSONS LEARNED:
 * How to display the content from the API on a website using Javascript.
