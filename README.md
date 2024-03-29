@@ -4,8 +4,11 @@ We have make a Quote Generator Website.
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE-/
 
 ## HOW IT'S MADE:
+## TECH USED:
+* HTML
+* How to share content from your website to an another website.
 
-**TECH USED:** 
+##TECH USED: 
 *HTML, 
 *CSS, 
 *JavaScript
