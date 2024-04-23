@@ -1,4 +1,5 @@
 # DAILY-MOOD-MELDER-APP
+A
 
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
