@@ -1,5 +1,5 @@
 # DAILY-MOOD-MELDER-APP
-We built a Daily Quote App Design with two buttons: one for sharing quotes on Twitter and one for generating new quotes.  
+An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE-/
 
