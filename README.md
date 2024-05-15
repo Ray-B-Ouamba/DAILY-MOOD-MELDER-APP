@@ -1,6 +1,6 @@
 # DAILY-MOOD-MELDER-APP
 
-123456789
+1234567890
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/DAILY-MOOD-MELDER-APP/
