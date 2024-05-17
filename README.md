@@ -1,4 +1,4 @@
-32 1   098765432  1  0987654321
+432 1   098765432  1  0987654321
 # DAILY-MOOD-MELDER-APP
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
