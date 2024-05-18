@@ -1,4 +1,4 @@
-54321 1098765432  10987654321
+754321 1098765432  10987654321
 # DAILY-MOOD-MELDER-APP
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
