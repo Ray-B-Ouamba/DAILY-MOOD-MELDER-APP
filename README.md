@@ -8,7 +8,7 @@ An app highlighting daily quotes to give users motivation, encouragement, and so
 ## TECH USED:
 * HTML
 * CSS
-* JaAVASCRIPT
+* JAVASCRIPT
 
 ## OPTIMIZATIONS
 * We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter).
