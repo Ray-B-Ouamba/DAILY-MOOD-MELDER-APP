@@ -1,4 +1,4 @@
-97987654321  1234567890  1234567890n
+
 # DAILY-MOOD-MELDER-APP2
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
