@@ -1,4 +1,4 @@
-0000   9999     8888     7777     6666    5555  34   4444     33333        2222       1111
+
 # DAILY-MOOD-MELDER-APP2
 An app highlighting daily quotes to give users motivation, encouragement, and sources of inspiration to improve their lives every day.
 
